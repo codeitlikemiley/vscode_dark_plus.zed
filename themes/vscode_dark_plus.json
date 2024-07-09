@@ -139,66 +139,49 @@
         "players": [],
         "syntax": {
           "comment": {
-            "color": "#505050",
-            "font_style": "italic",
-            "font_weight": null
+            "color": "#6A9955",
+            "font_style": "italic"
           },
           "constant": {
-            "color": "#0ca425c3",
+            "color": "#8a63d2b9",
             "font_weight": 900
           },
-          "constructor": {
-            "color": "#569cd6",
-            "font_style": null,
-            "font_weight": null
+          "number": {
+            "color": "#8a63d2b9"
+          },
+          "type.builtin": {
+            "color": "#8a63d2b9"
           },
           "function": {
-            "color": "#dcdcaa",
-            "font_style": null,
-            "font_weight": null
+            "color": "#dcdcaa"
           },
           "function.special": {
-            "color": "#4ec9b0",
-            "font_style": null,
-            "font_weight": null
+            "color": "#b681ef",
+            "font_weight": 900
           },
-          "function.special.definitio": {
-            "color": "#ed5c5c",
-            "font_style": null,
-            "font_weight": null
+          "function.special.definition": {
+            "color": "#ed5c5c"
           },
           "property": {
             "color": "#ed5c5c"
-
           },
           "keyword": {
             "color": "#569cd6",
             "font_style": null,
             "font_weight": null
           },
-          "number": {
-            "color": "#b5cea8",
-            "font_style": null,
-            "font_weight": null
-          },
           "operator": {
-            "color": "#c586c0",
-            "font_style": null,
-            "font_weight": null
+            "color": "#808080"
           },
           "punctuation.bracket": {
-            "color": "#808080",
-            "font_style": null,
-            "font_weight": null
+            "color": "#808080"
           },
           "punctuation.delimiter": {
-            "color": "#ffffff",
-            "font_style": null,
-            "font_weight": null
+            "color": "#808080"
           },
           "punctuation.special": {
             "color": "#808080",
-            "font_style": "italic"
+            "font_weight": 900
           },
           "string": {
             "color": "#ce9178",
@@ -210,13 +193,8 @@
             "font_style": null,
             "font_weight": null
           },
-          "type.builtin": {
-            "color": "#9c851f8e",
-            "font_style": null,
-            "font_weight": null
-          },
           "type.interface": {
-            "color": "#b681ef"
+            "color": "#eca4c3"
           },
           "lifetime": {
             "color": "#ed5c5c",
@@ -229,13 +207,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#808080",
-            "font_weight": 900
-          },
-          "keyword.enum": {
-            "color": "#b681ef",
-            "font_style": null,
-            "font_weight": null
+            "color": "#dcdcaa"
           }
         }
       }
