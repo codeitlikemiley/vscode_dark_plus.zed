@@ -1,9 +1,9 @@
 {
-  "name": "Vscode Dark Plus Theme",
+  "name": "Rust Theme for Zed",
   "version": "0.0.1",
   "authors": [
-    "d1y <chenhonzhou@gmail.com>"
+    "uriah <codeitlikemiley@gmail.com>"
   ],
-  "description": "Portable Vscode Dark Plus Theme",
-  "repository": "https://github.com/d1y/vscode_dark_plus.zed"
+  "description": "Rust Theme for Zed",
+  "repository": "https://github.com/codeitlikemiley/vscode_dark_plus.zed"
 }
