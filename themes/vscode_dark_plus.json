@@ -156,14 +156,14 @@
             "color": "#dcdcaa"
           },
           "function.special": {
-            "color": "#b681ef",
+            "color": "#ed5c5c",
             "font_weight": 900
           },
           "function.special.definition": {
             "color": "#ed5c5c"
           },
           "property": {
-            "color": "#ed5c5c"
+            "color": "#dfb36b"
           },
           "keyword": {
             "color": "#569cd6",
